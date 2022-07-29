@@ -16,7 +16,8 @@ This application enables one to build a database of workers at any given company
 
 ## installation instructions:
 
-First, clone the repository to your local machine. Then open the folder in the text editor of your choice. After that open the comand line in that folder and type ```npm install```. Once the node_modules have installed then type ```mysql -u root -p``` to link to MySQL. Enter the password ```password``` to start the session. Copy the contents of schema,js and paste reight after the ```mysql``` prompt. Once the confirmation ```
+First, clone the repository to your local machine. Then open the folder in the text editor of your choice. After that open the comand line in that folder and type ```npm install```. Once the node_modules have installed then type ```mysql -u root -p``` to link to MySQL. Enter the password ```password``` to start the session. Copy the contents of schema,js and paste right after the ```mysql>``` prompt. Once the confirmation ```Query OK, 6 rows affected (0.01 sec)
+Records: 6  Duplicates: 0  Warnings: 0```.
 Now follow the questions that present in the command line to build the database.
 
 ## Link to video of the site in action:
